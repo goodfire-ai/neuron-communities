@@ -4,7 +4,7 @@ Code for *Neuron-sparse behaviors in an LLM: small neuron communities causally n
 
 This repo finds small groups of MLP neurons in Llama-3.1-8B that work together. It tests whether removing a group changes the model's next-token prediction, and whether keeping just that group within a range of layers preserves it.
 
-[Explore the 1,941 labelled communities](https://goodfire-ai.github.io/neuron-communities/), with prompts, interventions, and statistics.
+[Explore the 1,941 labelled communities](https://goodfire.com/demos/neuron-communities), with prompts, interventions, and statistics.
 
 ## How it works
 
